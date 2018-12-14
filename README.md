@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Do not forget to install Node.js
 
-### `npm i` to instal project dependencies
+To instal project dependencies:
+### `npm i` 
 
 ## Available Scripts
 
